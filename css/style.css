@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474079ShM/background-black-tuyet-dep_015104288.jpg);
+    color: #fff;
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #222;
+}
+
+header .logo h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #f1c40f;
+}
+
+.hero {
+    height: 400px;
+    background-image: url('https://via.placeholder.com/1920x400');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h2 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 18px;
+}
+
+.movie-list {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.movie-list h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.movies {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.movie-item {
+    width: 300px;
+    background-color: #333;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease;
+    margin-bottom: auto;
+}
+
+
+.movie-item:hover {
+    transform: scale(1.05);
+}
+
+.movie-item img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.movie-info {
+    padding: 15px;
+    background-color: #444;
+}
+
+.movie-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.watch-btn {
+    background-color: #f1c40f;
+    color: #333;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.watch-btn:hover {
+    background-color: #e67e22;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    margin-top: 40px;
+}
