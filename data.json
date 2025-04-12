@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Doraemon",
+        "content": "nói về cuộc phiêu lưu của các bạn trẻ ",
+        "image": "https://vcdn1-giaitri.vnecdn.net/2013/12/07/Doraemon-VNese-Poster-confirme-2850-1164-1386384942.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=HZSUjfHOvS_gur2mGxZM8g",
+        "actor": "Doraemon, Xuka, Nobita, ..",
+        "stars": "5"
+    },
+    {
+        "id": 2,
+        "title": "Conan",
+        "content": "giải mã nhưng vụ án hóc búa",
+        "image": "https://i.pinimg.com/550x/48/7f/93/487f9336ad80f3d8a1c3463a34c11371.jpg",
+        "actor": "Conan, Mori, Ran, ..",
+        "stars": "5"
+
+    },
+    {
+        "id": 3,
+        "title": "Shin",
+        "content": "nói về những ngày tích nghịch của shin",
+        "image": "https://image.tmdb.org/t/p/original/obXyZcD003MGrvCjTX63oEQCyMF.jpg",
+        "actor": "Shin, Himawari, Misae, Hiroshi, ..",
+        "stars": "5"
+    },
+    {
+        "id": 4,
+        "title": "Cánh cụt",
+        "content": "hành trình phiêu lưu đầy thú vị",
+        "image": "https://cdn-images.vtv.vn/562122370168008704/2023/8/31/image005-4-16934713600491189383196.jpg",
+        "actor": "Batricia, Maurice, Igor, ..",
+        "stars": "5"
+    },
+    {
+        "id": 5,
+        "title": "Disnep",
+        "content": "hành trình đi tìm hoàng tử",
+        "image": "https://kenh14cdn.com/k:thumb_w/600/xTZEmccccccccccccr1G7b38hnk3EQ/Image/2014/01/disney-01-5cf39/loat-poster-ladunghoi-cua-phim-hoat-hinh-disney.jpg",
+        "actor": "Rapunzel, Flynn Rider, Gothel, ..",
+        "stars": "5"
+    },
+    {
+        "id": 6,
+        "title": "Klaus",
+        "content": "Câu chuyện giáng sinh",
+        "image": "https://ih1.redbubble.net/image.2357228583.8271/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+        "actor": "Mogens, Márgu, Krum boy",
+        "stars": "5"
+    },
+    {
+        "id": 7,
+        "title": " Blue Sky",
+        "content": "Trận đại chiến tranh giành lãnh thổ",
+        "image": "https://vcdn1-giaitri.vnecdn.net/2013/03/18/epic-poster03-jpg-1363579804.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=MDirKBgbVPI08wWzFhUPjw",
+        "actor": "Chris Wedge, James V Hart, William Joyce, ..",
+        "stars": "5"
+    },
+    {
+        "id": 1,
+        "title": "Transformers",
+        "content": "xoay quanh câu chuyện khởi nguồn tại hành tinh Cybertron, nơi các robot đang khai thác Energon nhằm tạo ra năng lượng, trước khi cuộc chiến khốc liệt giữa hai phe Decepticons và Autobots bùng nổ",
+        "image": "https://simg.zalopay.com.vn/zlp-website/assets/phim_hoat_hinh_my_8_b150c809af.jpg",
+        "actor": "Optimus Prime, Megatron, Starscream, ..",
+        "stars": "5"
+    }
+]
